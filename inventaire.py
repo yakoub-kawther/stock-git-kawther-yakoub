@@ -1,1 +1,1 @@
-print (" gestion sctock - edition 01")
+print (" gestion sctock - edition 2.0 ( alerts actives )")
