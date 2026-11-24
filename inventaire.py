@@ -1,1 +1,1 @@
-print (" gestion sctock - edition 01")
+print (" gestion sctock - edition 1.1 ( mis a joure tarif)")
