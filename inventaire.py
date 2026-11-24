@@ -1,1 +1,1 @@
-print (" gestion sctock - edition 1.1 ( mis a joure tarif)")
+print (" gestion sctock - edition 2.0 ( alerts actives )")
